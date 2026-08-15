@@ -16,9 +16,9 @@
     <a href="https://zeeshan-anwar-swe.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://github.com/zeeshan-anwar-swe">
+    <!-- <a href="https://github.com/zeeshan-anwar-swe">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+    </a> -->
   </p>
 </div>
 
