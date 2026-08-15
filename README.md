@@ -59,7 +59,7 @@ Frontend Engineer specializing in building high-performance, scalable web interf
 | Role | Company | Location | Duration |
 |---|---|---|---|
 | Frontend Engineer | HolisticTLC Corporation | Bahawalpur, Pakistan  | Mar 2026 – Present |
-| Frontend Engineer | Corecentrix Business Solutions, Lahore | Aug 2025 – Mar 2026 |
+| Lead Frontend Engineer | Corecentrix Business Solutions | Lahore, Pakistan | Aug 2025 – Mar 2026 |
 | Lead Frontend Developer | TechnoLyte  | Lahore, Pakistan | Feb 2025 – Aug 2025 |
 | MERN Stack Developer | TechnoLyte | Lahore, Pakistan | Feb 2024 – Feb 2025 |
 | Software Engineer-I | SkyImpel Limited | Lahore, Pakistan | May 2023 – Feb 2024 |
