@@ -83,17 +83,4 @@ Frontend Engineer specializing in building high-performance, scalable web interf
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshan-anwar-swe&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-anwar-swe&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-anwar-swe&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Open to Frontend Engineer opportunities — let's connect!</i></p>
